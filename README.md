@@ -1,5 +1,5 @@
 # nmapgun
-is like a nmap ray 
+
 
 
 import socket
